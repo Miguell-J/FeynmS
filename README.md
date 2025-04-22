@@ -77,7 +77,7 @@ print(circuit)
 
 ## Documentation
 
-For more detailed information and examples, please refer to the [official documentation](#).
+Explore the full documentation at [https://feynms.readthedocs.io/](https://feynms.readthedocs.io/).
 
 ## Contributing
 
