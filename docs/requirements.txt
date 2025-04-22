@@ -1,0 +1,6 @@
+sphinx
+sphinx-rtd-theme
+sphinx-autodoc-typehints
+myst-parser
+numpy
+matplotlib
