@@ -1,7 +1,6 @@
-# FeynmS - Quantum Laboratory
+# FeynmS - Quantum Computing Laboratory
 
-![image](https://github.com/user-attachments/assets/96196770-ce5d-41b2-be38-adac84c9bd62)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 FeynmS is a Python library for simulation and experimentation with quantum computing. It provides tools for creating and manipulating quantum circuits, implementing quantum algorithms, and visualizing results.
 
@@ -85,4 +84,6 @@ Contributions are welcome!
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](#) file for details.
+FeynmS is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
