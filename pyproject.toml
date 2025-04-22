@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "FeynmS"
+version = "0.1.4"
+description = "A Python library for quantum computing simulation."
+authors = [
+    { name = "Miguel Araújo Julio", email = "Julioaraujo.guel@gmail.com" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "numpy>=1.19",
+    "scipy>=1.7",
+    "matplotlib>=3.4",
+    "qiskit>=0.34"
+]
+
+[project.urls]
+Homepage = "https://github.com/Miguell-J/FeynmS"

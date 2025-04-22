@@ -1,0 +1,7 @@
+123 module
+==========
+
+.. automodule:: 123
+   :members:
+   :show-inheritance:
+   :undoc-members:
