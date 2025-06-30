@@ -1,8 +1,14 @@
-# FeynmS - Quantum Computing Laboratory
+<div align="center">
 
-<div>
+![GitHub repo size](https://img.shields.io/github/repo-size/Miguell-J/FeynmS?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Miguell-J/FeynmS?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Miguell-J/FeynmS?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Miguell-J/FeynmS?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Miguell-J/FeynmS?style=for-the-badge)
   
-  ![](group.png)
+# FeynmS - Quantum Computing Laboratory
+  
+  ![](logo.png)
   
 </div>
 
