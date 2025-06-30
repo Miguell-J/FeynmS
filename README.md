@@ -1,5 +1,11 @@
 # FeynmS - Quantum Computing Laboratory
 
+<div>
+  
+  ![](group.png)
+  
+</div>
+
 FeynmS is a Python library for simulation and experimentation with quantum computing. It provides tools for creating and manipulating quantum circuits, implementing quantum algorithms, and visualizing results.
 
 ## Installation
