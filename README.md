@@ -8,7 +8,7 @@
   
 # FeynmS - Quantum Computing Laboratory
   
-  ![](logo.png)
+  ![](fey_logo.png)
   
 </div>
 
